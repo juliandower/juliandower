@@ -1,30 +1,14 @@
-<!-- github-profile-readme -->
-<div align="center">
+# Hey, I'm Julian.
 
-```text
-     ██╗██████╗      julian@github
-     ██║██╔══██╗     ─────────────
-     ██║██║  ██║     Role     Full-Stack Web Developer
-██   ██║██║  ██║     Focus    AI-enabled SaaS
-╚█████╔╝██████╔╝     Status   shipping since 2021
- ╚════╝ ╚═════╝
-                     ── stack ───────────────────────────
-                     Front    React · TypeScript · JavaScript
-                     Back     Node.js · PostgreSQL · SQL
-                     Also     Python · C
-                     Ship     features · debugging · QA
+Full-stack web developer building AI-enabled products with React, TypeScript, Node.js, and PostgreSQL.
 
-                     ── interface ───────────────────────
-                     Taste    quiet motion · tactile software
-                     Signal   software · music · design
-                     Study    Software Engineering @ MCI
+I care about thoughtful interfaces, quiet motion, and software that feels obvious before it feels impressive. Currently working on healthcare SaaS and studying Digital Business & Software Engineering at MCI.
 
-                     ── now ─────────────────────────────
-                     Work     AI-enabled healthcare SaaS
-                     Play     wissenwert · wisp-anchor
-                     Web      juliandower.com
-```
+**Also working with:** Python, C, SQL, debugging, QA, and feature delivery.
 
-[website](https://juliandower.com) · [github](https://github.com/juliandower) · [wissenwert](https://wissenwert.juliandower.com) · [wisp-anchor](https://wisp-anchor.juliandower.com)
+## Selected work
 
-</div>
+- [wissenwert](https://wissenwert.juliandower.com) — an AI-generated quiz game with leverage and hedge mechanics.
+- [wisp-anchor](https://wisp-anchor.juliandower.com) — interactive mind maps built from rough spoken ideas.
+
+[juliandower.com](https://juliandower.com)
